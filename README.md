@@ -12,7 +12,7 @@ pip install openai
 pip install tiktoken
 pip install chromadb
 ```
-Add an additional folder constants.py
+Add an additional file to the folder constants.py
 ```bash
 APIKEY = "YOUR API KEY"
 ```
